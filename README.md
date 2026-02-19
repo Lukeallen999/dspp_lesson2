@@ -10,7 +10,10 @@ I am training to be a **Data Scientist**
 Modules:
  1. Data infrastructure and tools
  2. Data engineering
-Plymouth 
+ 3. Data Analytics
+ 4. Data visualisation  
+
+  Plymouth 
 
 ## Projects
 FPL points predictor
