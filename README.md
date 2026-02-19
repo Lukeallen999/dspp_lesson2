@@ -8,8 +8,8 @@ I am training to be a **Data Scientist**
 ## Education
 ### BPP
 Modules:
-  1. Data infrastructure and tools
-  2. Data engineering
+ 1. Data infrastructure and tools
+ 2. Data engineering
 Plymouth 
 
 ## Projects
