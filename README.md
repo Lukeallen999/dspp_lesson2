@@ -6,11 +6,10 @@ I am training to be a **Data Scientist**
 ![Histogram](images/histogram-example-2.png)
 
 ## Education
-###BPP
+### BPP
 Modules:
-⋅⋅⋅⋅1. Data infrastructure and tools
-
-....2. Data engineering
+  1. Data infrastructure and tools
+  2. Data engineering
 Plymouth 
 
 ## Projects
