@@ -14,7 +14,8 @@ Modules:
  4. Data visualisation  
 
 ### Plymouth 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://play.google.com/store/apps/details?id=com.ombiel.campusm.plymouth))
+![alt text](https://play.google.com/store/apps/details?id=com.ombiel.campusm.plymouth "plymouth logo")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ## Projects
 FPL points predictor
 
