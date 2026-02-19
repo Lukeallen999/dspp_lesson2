@@ -11,3 +11,5 @@ Plymouth
 
 ## Projects
 FPL points predictor
+
+[project 1](https://medium.com/geoai/house-hunting-the-data-scientist-way-b32d93f5a42f?source=user_profile_page---------0-------------a32b52e2b829----------------------)
